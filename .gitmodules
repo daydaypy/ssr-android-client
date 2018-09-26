@@ -31,3 +31,4 @@
 [submodule "kcptun/go"]
 	path = kcptun/go
 	url = https://github.com/shadowsocks/go
+	branch = shadowsocks
